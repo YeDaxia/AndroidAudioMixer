@@ -32,7 +32,7 @@ A freelancer. If you want to develop an app / website / 小程序，you can cons
 
 - email: yedaxia#foxmail.com (# to @)
 
-最近比较缺钱，在接一些项目做，如果你有开发 app/网站/小程序 的需求，你或许可以考虑一下找我。[了解更多...](https://yedaxia.pro/cooperate)
+如果你有开发 app/网站/小程序 的需求，你或许可以考虑一下找我。[了解更多...](https://yedaxia.pro/cooperate)
 
 **联系我：**
 
