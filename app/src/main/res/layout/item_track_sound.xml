@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <io.github.yedaxia.musicnote.view.TabButton
+        android:id="@+id/btn_sound"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tv_track_name"
+        android:button="@drawable/ic_sw_volume" />
+
+    <TextView
+        android:id="@+id/tv_track_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:lines="1"
+        android:padding="2dp"
+        android:text="12121212"
+        android:textColor="@color/text_white"
+        android:textSize="10sp" />
+
+    <include layout="@layout/include_light_line" />
+
+    <View
+        android:layout_width="1px"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="@color/light_line_color" />
+</RelativeLayout>

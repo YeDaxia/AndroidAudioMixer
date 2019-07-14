@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">声音笔记+</string>
+
+    <string name="project_name">项目名称</string>
+    <string name="confirm">确定</string>
+    <string name="beat_setting">调和节拍设定</string>
+    <string name="i_know">我知道了</string>
+    <string name="metronome">节拍器</string>
+    <string name="search_tab">搜谱</string>
+    <string name="sing_in_activity">活动签到</string>
+
+
+    <string name="select_beat">选择节奏型</string>
+    <string name="select_tone">选择调</string>
+    <string name="speed_and_beat">速度/节拍: </string>
+
+    <string name="track_name_setting">设置轨道名</string>
+    <string name="warning">警告</string>
+    <string name="delete_track_tip">音轨删除之后不能恢复，你确定要删除吗？</string>
+    <string name="delete_project_tip">项目删除之后不能恢复，你确定要删除吗？</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+
+    <string name="tips">提示</string>
+    <string name="toast_no_record_track">录音要先添加一条新音轨</string>
+    <string name="request_permissions">你需要开启相关权限才能正常使用相关功能</string>
+    <string name="toast_waiting_data_loading">相关数据还在加载中，请稍后再试</string>
+
+    <string name="error_empty_project_name">标题不能为空</string>
+    <string name="error_empty_track_name">轨道不能为空</string>
+    <string name="expert_path_tip">导出目录为: %s</string>
+    <string name="loop_play_tip">开启循环播放</string>
+
+    <string name="new_track">添加音轨</string>
+    <string name="save_as_acc">导出音频</string>
+    <string name="export_fail">导出音频失败</string>
+    <string name="export_success">导出音频成功</string>
+    <string name="open">开</string>
+    <string name="close">关</string>
+    <string name="exporting">导出中... 请耐心等待。</string>
+    <string name="help">帮助</string>
+    <string name="feedback">反馈</string>
+    <string name="about">关于</string>
+    <string name="adjust_record">录音校准</string>
+    <string name="adjust_success">校准完成!</string>
+    <string name="adjust_success_tip">校准成功，你可以返回继续录音了～</string>
+
+    <string name="open_beat_sound">开启节拍声</string>
+    <string name="close_beat_sound">关闭节拍声</string>
+
+    <string name="adjust_delay_record_time_tip">带上耳机，点击播放按钮，跟着节奏声唱 La La La...</string>
+    <string name="adjust_record_reason">从同步播放声音到耳机和录音开始，会存在时间差，所以需要进行同步校准。需要注意的是，每当你更换一个新的耳机进行录音的时候，建议进行重新校准，已便更好地同步录音。</string>
+    <string name="first_record_adjust_tip">首次录音请先校准录音！</string>
+    <string name="record_headset_tip">录音之前请带上你的耳机</string>
+    <string name="home_help_tip">不知道怎么开始？点击帮助了解一下～</string>
+    <string name="exceed_max_support_track_count">最多支持8个音轨</string>
+    <string name="app_activate_tip">请支持一杯咖啡的费用，就能获得无限制的使用</string>
+    <string name="buy">购买</string>
+    <string name="activate_app">激活 App</string>
+
+
+    <string-array name="beats_array">
+        <item>1/4</item>
+        <item>2/4</item>
+        <item>3/4</item>
+        <item>4/4</item>
+        <item>5/4</item>
+        <item>5/8</item>
+        <item>6/8</item>
+        <item>7/8</item>
+        <item>9/8</item>
+        <item>12/8</item>
+    </string-array>
+
+    <string-array name="track_menu_array">
+        <item>重命名</item>
+        <item>删除音轨</item>
+    </string-array>
+
+    <string-array name="project_menu_array">
+        <item>重命名</item>
+        <item>删除项目</item>
+    </string-array>
+</resources>

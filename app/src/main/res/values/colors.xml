@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#546E7A</color>
+    <color name="colorAccent">#263238</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="waveform_selected">#33b5e5</color>
+    <color name="waveform_unselected">#195a72</color>
+    <color name="waveform_unselected_bkgnd_overlay">#0a242d</color>
+    <color name="selection_border">#ffffff</color>
+    <color name="playback_indicator">#ffff66</color>
+    <color name="grid_line">#66ffffff</color>
+    <color name="timecode">#ddffffdd</color>
+    <color name="timecode_shadow">#aa000000</color>
+
+    <color name="type_bkgnd_alarm">#88880000</color>
+    <color name="type_bkgnd_ringtone">#88008888</color>
+    <color name="type_bkgnd_notification">#88666600</color>
+    <color name="type_bkgnd_music">#88000000</color>
+    <color name="type_bkgnd_unsupported">#88cccccc</color>
+
+    <color name="text_dark_black">#333333</color>
+    <color name="text_gray">#ABABAB</color>
+    <color name="text_white">#FFF</color>
+    <color name="light_line_color">#FFCCCCCC</color>
+    <color name="bg_black">#FF000000</color>
+    <color name="bg_light_gray">#CCC</color>
+    <color name="bg_disable">#ABABAB</color>
+
+    <color name="wave_line_color_primary">#37474F</color>
+    <color name="wave_middle_line_color">#78909C</color>
+    <color name="wave_play_line_color">#E91E63</color>
+    <color name="wave_line_recording_color">#90A4AE</color>
+
+</resources>

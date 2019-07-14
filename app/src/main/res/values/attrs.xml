@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CompoundButton">
+        <attr name="android:button"/>
+        <attr name="drawableWidth"
+            format="dimension"/>
+        <attr name="drawableHeight"
+            format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="TabButton">
+        <attr name="tipBackgroundColor"
+            format="color"/>
+        <attr name="tipTextColor"
+            format="color"/>
+        <attr name="tipTextSize"
+            format="dimension"/>
+        <attr name="tipDotRadius"
+            format="dimension"/>
+        <attr name="tipText"
+            format="string"/>
+        <attr name="tipTextDotRadius"
+            format="dimension"/>
+        <attr name="drawableLabelGap"
+            format="dimension"/>
+        <attr name="tipTextDotRightMargin"
+            format="dimension"/>
+        <attr name="tipTextDotTopMargin"
+            format="dimension"/>
+        <attr name="labelTextAlign">
+            <enum name="left"
+                value="1"/>
+            <enum name="right"
+                value="2"/>
+            <enum name="top"
+                value="3"/>
+            <enum name="bottom"
+                value="4"/>
+        </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="RECEIVE_RECORDING_DATA">0x1</integer>
+    <integer name="LOAD_DATA_SUCCESS">0x2</integer>
+    <integer name="PLAY_AUDIO_FRAME">0x3</integer>
+    <integer name="PLAY_DONE">0x4</integer>
+    <integer name="PLAY_BEAT">0x5</integer>
+    <integer name="REPLAY_ON_SCROLL">0x6</integer>
+    <integer name="EXPORT_AUDIO_SUCCESS">0x10</integer>
+    <integer name="EXPORT_AUDIO_FAIL">0x100</integer>
+    <integer name="REFRESH_BEAT_DATA">0x101</integer>
+    <integer name="ADJUST_RECORD_DISTANCE_DONE">0x111</integer>
+</resources>

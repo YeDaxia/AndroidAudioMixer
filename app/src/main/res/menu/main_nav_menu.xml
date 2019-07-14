@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_help_black"
+        android:title="@string/help" />
+
+    <item android:id="@+id/nav_metronome"
+        android:icon="@drawable/ic_metronome_black"
+        android:title="@string/metronome"/>
+
+    <item android:id="@+id/nav_search_tab"
+        android:icon="@drawable/ic_search_black"
+        android:title="@string/search_tab"/>
+
+    <item
+        android:id="@+id/nav_feedback"
+        android:icon="@drawable/ic_call_black"
+        android:title="@string/feedback" />
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/ic_info_black"
+        android:title="@string/about" />
+
+</menu>

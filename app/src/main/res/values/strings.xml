@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Music Note+</string>
+
+    <string name="project_name">Project Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="beat_setting">Tune and Beat setting</string>
+    <string name="i_know">I Know</string>
+
+    <string name="select_beat">Beat Select</string>
+    <string name="select_tone">Tune Select</string>
+    <string name="speed_and_beat">Speed/Beat: </string>
+    <string name="metronome">Metronome</string>
+    <string name="search_tab">Search Tab</string>
+    <string name="sing_in_activity">Sign In Activity</string>
+
+    <string name="track_name_setting">Track Name</string>
+    <string name="warning">Warning</string>
+    <string name="delete_track_tip">Are you sure to delete this track?</string>
+    <string name="delete_project_tip">Are you sure to delete this project?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <string name="tips">Attention</string>
+    <string name="toast_no_record_track">Please add a new track before recording.</string>
+    <string name="request_permissions">Please allow permissions the app needs.</string>
+    <string name="toast_waiting_data_loading">Data loading ，please wait a minute.</string>
+
+    <string name="error_empty_project_name">Project name cannot be empty.</string>
+    <string name="error_empty_track_name">Track name cannot be empty.</string>
+    <string name="expert_path_tip">Export Path: %s</string>
+    <string name="loop_play_tip">Start Loop Play</string>
+
+    <string name="new_track">Add Track</string>
+    <string name="save_as_acc">Export...</string>
+    <string name="export_fail">Export fail.</string>
+    <string name="export_success">Export success.</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="exporting">Exporting... It could take a few minutes.</string>
+    <string name="help">Help</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About</string>
+
+    <string name="open_beat_sound">Open Beat Sound</string>
+    <string name="close_beat_sound">Close Beat Sound</string>
+    <string name="adjust_record">Adjust Record</string>
+    <string name="adjust_success">Adjust Done!</string>
+    <string name="adjust_success_tip">Adjust Success! You can back to do the recording now.</string>
+    <string name="first_record_adjust_tip">Please adjust record before your first start! </string>
+    <string name="record_headset_tip">Please bring your headset before recording.</string>
+    <string name="home_help_tip">Do not know how to start? Click help to find out ~</string>
+
+    <string name="adjust_delay_record_time_tip">Put on headset, click the play button, follow the beat sound to sing La La La...</string>
+    <string name="adjust_record_reason">There is a time lag between the beginning of the synchronization of the sound and the beginning of the headset and recording, so a synchronization adjustment is required. Noted that whenever you change a new headset for recording, it is recommended to recalibrate, it would be better to synchronize the recording.</string>
+    <string name="exceed_max_support_track_count">Most support 8 tracks</string>
+    <string name="app_activate_tip">Please buy me a coffee.</string>
+    <string name="buy">buy</string>
+    <string name="activate_app">activate app</string>
+
+    <string-array name="beats_array">
+        <item>1/4</item>
+        <item>2/4</item>
+        <item>3/4</item>
+        <item>4/4</item>
+        <item>5/4</item>
+        <item>5/8</item>
+        <item>6/8</item>
+        <item>7/8</item>
+        <item>9/8</item>
+        <item>12/8</item>
+    </string-array>
+
+    <string-array name="track_menu_array">
+        <item>Rename</item>
+        <item>Delete Track</item>
+    </string-array>
+
+    <string-array name="project_menu_array">
+        <item>Rename</item>
+        <item>Delete Project</item>
+    </string-array>
+</resources>

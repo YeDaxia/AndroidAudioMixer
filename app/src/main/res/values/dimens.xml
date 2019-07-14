@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_padding">10dp</dimen>
+    <dimen name="app_xs_margin">5dp</dimen>
+    <dimen name="app_ms_margin">10dp</dimen>
+    <dimen name="label_icon_padding">5dp</dimen>
+    <dimen name="line_height">1px</dimen>
+    
+    <dimen name="track_height">60dp</dimen>
+    <dimen name="tune_circle_radius">40dp</dimen>
+</resources>
