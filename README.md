@@ -10,6 +10,8 @@ A side app just for fun. Maybe you can use it for improvisation or ensemble prac
 2. a byte-accurate metronome inside.
 3. acc format audio output.
 
+# 功能
+
 1. 支持多音轨录音和播放
 2. 一个字节级别精准的节拍器
 3. ACC 格式音频压缩导出
